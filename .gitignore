@@ -1,0 +1,8 @@
+# Ignore compiled binaries
+*.hex
+*.elf
+*.bin
+
+# Ignore build folders
+build/
+bin/
