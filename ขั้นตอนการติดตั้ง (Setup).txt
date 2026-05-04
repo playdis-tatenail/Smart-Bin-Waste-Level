@@ -1,0 +1,11 @@
+ขั้นตอนการติดตั้ง (Setup)
+ติดตั้ง Library ที่จำเป็นใน Arduino IDE 
+- WiFi.h 
+- HTTPClient.h
+- WiFiClientSecure.h   
+
+ระบุข้อมูลการเชื่อมต่อในโค้ด: ##ใส่ข้อมูลที่เป็นของคุณ
+ssid และ password ของ Wi-Fi  
+discord_webhook URL   
+scriptID สำหรับ Google Apps Script   
+อัปโหลดโค้ดลงบอร์ด ESP32 และตรวจสอบการทำงานผ่าน Serial Monitor
